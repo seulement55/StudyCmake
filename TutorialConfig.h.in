@@ -1,0 +1,8 @@
+/* the configured options and settings for Tutorial
+ * @Tutorial_VERSION_MAJOR@ and @Tutorial_VERSION_MINOR@ will be replaced
+ * value from CMakeList.txt
+ * set (Tutorial_VERSION_MAJOR 1)
+ * set (Tutorial_VERSION_MINOR 0)
+ */
+#define Tutorial_VERSION_MAJOR @Tutorial_VERSION_MAJOR@
+#define Tutorial_VERSION_MINOR @Tutorial_VERSION_MINOR@
